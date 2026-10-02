@@ -2475,7 +2475,7 @@ body {
 
 .container .flex .style {
   font-size: 4vw;
-  font-family: chicle, cursive;
+  font-family: chicle-regular, cursive;
   background: linear-gradient(
     to right,
     rgba(255, 0, 0, 0.68) 30%,
@@ -3660,7 +3660,7 @@ body {
 }
 
 .container .about .img-container {
-  background-image: url('https://github.com/dhanielram64-jpg/dhaniel-hub/blob/main/89pssw-2659071518.jpg');
+  background-image: url('89pssw-2659071518.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 70%;
@@ -3700,13 +3700,13 @@ body {
 ========================================= */
 
 @font-face {
-  font-family: poppins;
+  font-family: poppins-regular;
   src: url('poppins-regular.ttf') format('truetype');
   font-display: swap;
 }
 
 @font-face {
-  font-family: chicle;
+  font-family: chicle-regular;
   src: url('chicle-regular.ttf') format('truetype');
   font-display: swap;
 }
@@ -3802,5 +3802,5 @@ body {
   margin: 0;
   background-color: #131722;
   color: white;
-  font-family: poppins, sans-serif;
+  font-family: poppins-regular, sans-serif;
 }
