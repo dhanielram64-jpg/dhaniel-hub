@@ -3660,7 +3660,7 @@ body {
 }
 
 .container .about .img-container {
-  background-image: url('89pSsw-2659071518.jpg');
+  background-image: url('89pssw-2659071518.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 70%;
@@ -3701,13 +3701,13 @@ body {
 
 @font-face {
   font-family: poppins;
-  src: url('Poppins-Regular.ttf') format('truetype');
+  src: url('poppins-regular.ttf') format('truetype');
   font-display: swap;
 }
 
 @font-face {
   font-family: chicle;
-  src: url('Chicle-Regular.ttf') format('truetype');
+  src: url('chicle-regular.ttf') format('truetype');
   font-display: swap;
 }
 
