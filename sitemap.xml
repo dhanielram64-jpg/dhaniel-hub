@@ -21,7 +21,7 @@
         <loc>https://dhaniel-hub.netlify.app/Genshin-impact-7.1.html</loc>
     </url>
 
-   <url>
+    <url>
         <loc>https://dhaniel-hub.netlify.app/Company-1.html</loc>
     </url>
 
@@ -35,10 +35,6 @@
 
     <url>
         <loc>https://dhaniel-hub.netlify.app/Honkai-star-rail.html</loc>
-    </url>
-
-    <url>
-        <loc>https://dhaniel-hub.netlify.app/Genshin-impact-7.1.html</loc>
     </url>
 
     <url>
@@ -64,4 +60,5 @@
     <url>
         <loc>https://dhaniel-hub.netlify.app/Games.html</loc>
     </url>
+
 </urlset>
