@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dhanielram64-jpg.github.io/dhaniel-hub/sitemap.xml
