@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>1.0000</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/news.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/news.html</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/games.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/games.html</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/about.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/genshin-impact.html</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/honkai-star-rail-9-28-2026.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/genshin-impact-7.1.html</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/genshin-impact-7.1.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/honkai-star-rail.html</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/zenless-zone-zero.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/honkai-star-rail-9-28-2026.html</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/genshin-impact.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/zenless-zone-zero.html</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/honkai-star-rail.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/company-1.html</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/company-1.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/company-2.html</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/company-2.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/company-3.html</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/company-3.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/company-4.html</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/company-4.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/company-5.html</loc>
   </url>
+
   <url>
-       <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/company-5.html</loc>
-       <lastmod>2026-10-03T11:13:19+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/about.html</loc>
   </url>
+
+  <url>
+    <loc>https://dhanielram64-jpg.github.io/dhaniel-hub/formulir.html</loc>
+  </url>
+
 </urlset>
